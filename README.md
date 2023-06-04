@@ -1,4 +1,4 @@
-# run-large-LLMs-runpod
+# Run large LLMs Runpod
 
 Run an open source LLM on a cloud GPU & hook it up to a chat interface
 
@@ -13,7 +13,7 @@ Run an open source LLM on a cloud GPU & hook it up to a chat interface
 
 ## Get started
 
-Make a runpod instance with the following config 
+Make a runpod instance with the following config `https://www.runpod.io/console/gpu-secure-cloud`
 
 - 1X NVIDIA L40
 - 48 GB VRAM
