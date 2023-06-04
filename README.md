@@ -127,7 +127,7 @@ conda activate textgen
 python server.py --gradio-auth Username:Password	
 ```
 
-2. I have added here `config.yaml` paste (replace content) it in the the text-generation-webui/models/config-user.yaml.
+2. I have added here `config-user.yaml` paste (replace content) it in the the text-generation-webui/models/config-user.yaml.
 
 #### Start Up script
 
